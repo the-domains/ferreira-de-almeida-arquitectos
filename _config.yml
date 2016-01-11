@@ -1,0 +1,28 @@
+name: Ferreira de Almeida Arquitectos
+favicon: null
+layout_spectrum: 0.8664487241767347
+typography_spectrum: 0.49177161999978125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1766983789857477
+  lightness: 0.9173412939999253
+  saturation: 0.38162874267436564
+  rhythmicContrast: 0.6403319207020104
+purpose: []
